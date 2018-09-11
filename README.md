@@ -1,1 +1,1 @@
-# MashineLearningByPython
+# MachineLearningByPython
